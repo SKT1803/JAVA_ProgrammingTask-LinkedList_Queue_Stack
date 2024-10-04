@@ -1,7 +1,8 @@
 <h2 align="left">Q1:</h2>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c3cb20ed-4c41-4629-8260-332537a7068f" alt="path" width=400px/>
+  <img src="https://github.com/user-attachments/assets/9b434c13-fbd9-4cbd-a59c-d719c2bd3dff" alt="path" width=400px/>
 </div>
+
 
 
 <b>Part A.</b>	Return the elements of the given matrix in spiral form. The program should stop when it sees -1. 
@@ -35,7 +36,7 @@ TRUE
 The direction of the arrow is the same as in 1A. You need to read 3 txt files, the first is the matrixb, the second and third are the lists with the indices of the matrices. The output will be TRUE or FALSE.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/369f6376-f675-47c2-a02e-b7638db15786" alt="path" width=400px/>
+  <img src="https://github.com/user-attachments/assets/3ee359e7-3f19-4141-a2d6-7a42ac946e00" alt="path" width=400px/>
 </div>
 Use LinkedList for this question.
 <br>
