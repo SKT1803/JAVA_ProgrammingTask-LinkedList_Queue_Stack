@@ -1,9 +1,6 @@
 //-----------------------------------------------------
 // Title: Node class
-// Author: Serdar Kemal Topkaya
-// ID: 71200082370
-// Section: 3
-// Assignment: 1
+// Author: Serdar Kemal Topkaya1
 // Description: This class creates the elements required for the List as Node. 
 // These nodes represent bitcoin values. These Nodes will have their own data value,
 // next value and value value. The data required for the node elements are created and 
