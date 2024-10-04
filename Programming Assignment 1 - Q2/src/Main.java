@@ -1,8 +1,5 @@
 // Title: Main class
 // Author: Serdar Kemal Topkaya
-// ID: 71200082370
-// Section: 3
-// Assignment: 1
 // Description: This class takes bitcoin values from text files as String values 
 // and converts them to integer values. By calling the methods in the Queue class, 
 // it outputs the required bitcoin values and the range of these values.
