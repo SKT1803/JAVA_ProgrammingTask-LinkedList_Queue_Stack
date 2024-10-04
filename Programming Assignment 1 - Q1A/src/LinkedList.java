@@ -1,4 +1,3 @@
-
 //-----------------------------------------------------
 // Title: LinkedList class
 // Description: In this class, a matrix taken as a parameter is translated and displayed 
