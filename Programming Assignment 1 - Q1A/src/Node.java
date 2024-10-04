@@ -1,10 +1,6 @@
-
 //-----------------------------------------------------
 // Title: Node Class
 // Author: Serdar Kemal Topkaya
-// ID: 71200082370
-// Section: 3
-// Assignment: 1
 // Description: This class creates the elements required for LinkedList as Node. 
 // These nodes will have their own data value and next value. The data required for 
 // the node elements are created and their initial values are set.
