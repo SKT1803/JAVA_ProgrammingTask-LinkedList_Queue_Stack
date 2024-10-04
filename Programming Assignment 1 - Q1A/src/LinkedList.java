@@ -1,10 +1,6 @@
 
 //-----------------------------------------------------
 // Title: LinkedList class
-// Author: Serdar Kemal Topkaya
-// ID: 71200082370
-// Section: 3
-// Assignment: 1
 // Description: In this class, a matrix taken as a parameter is translated and displayed 
 // in a spiral format LinkedList with the help of add, matrixToSpiralList and toString methods.
 //-----------------------------------------------------
