@@ -1,10 +1,6 @@
-
 //-----------------------------------------------------
 // Title: Main class
 // Author: Serdar Kemal Topkaya
-// ID: 71200082370
-// Section: 3
-// Assignment: 1
 // Description: This class reads 3 file files consisting of the matrix 
 // and 2 of the indexes of this matrix, and assigns the received string 
 // matrix to an integer matrix with the matrixToDoubleArray method, and 
