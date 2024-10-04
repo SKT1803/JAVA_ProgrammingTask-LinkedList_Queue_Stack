@@ -1,9 +1,6 @@
 //-----------------------------------------------------
 // Title: Main Class
 // Author: Serdar Kemal Topkaya
-// ID: 71200082370
-// Section: 3
-// Assignment: 1
 // Description: This class takes inputs from text files as String matrix 
 // and converts them to integer matrices. Using the methods created in the 
 // LinkedList class, it outputs these matrices in a spiral way.
