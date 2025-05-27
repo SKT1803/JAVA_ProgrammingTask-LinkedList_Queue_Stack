@@ -1,6 +1,6 @@
 //-----------------------------------------------------
 // Title: LinkedList class
-// Author: Serdar Kemal Topkaya
+// Author: SKT
 // Description: In this class, we first convert the matrix, we take as a parameter, 
 // into a LinkedList. We connect the elements in the LinkedList from the 
 // right, left, up and down directions. Then we check whether the elements 
