@@ -1,9 +1,80 @@
+# Matrix Traversal & Neighborhood Matching (LinkedList)– Bitcoin Range Calculator (Stack/Queue), LinkedList, Queue, Stack (JAVA)
+
+This repository contains two structured Java programming problems focusing on **LinkedList**, **Queue**, and **Stack** usage.  
+Each task processes input from `.txt` files and emphasizes algorithmic thinking and core data structures.
+
+---
+
+## Technologies Used
+
+- Java (no external libraries or frameworks)
+- File I/O
+- Core Data Structures:
+  - LinkedList
+  - Queue
+  - Stack
+- Clean OOP design
+
+---
+
+## How to Run
+  ```bash
+    cd "Programming Assignment 1 - Q1A/src"
+    javac *.java
+    java Main
+      
+    cd Q1
+    javac MatrixLinkedList.java
+    java MatrixLinkedList
+    
+    cd ../Q2
+    javac BitcoinRange.java
+    java BitcoinRange
+  ```
+
+---
+## Project Structure
+<pre>
+Java_DS_Assignment-LinkedList_Queue_Stack
+├── Programming Assignment 1 - Q1A # Matrix spiral path (LinkedList)
+│ ├── src/
+│ │ ├── Main.java
+│ │ ├── LinkedList.java
+│ │ └── Node.java
+│ ├── matrix.txt
+│ ├── matrix2.txt
+│ └── matrix3.txt
+│
+├── Programming Assignment 1 - Q1B # List neighborhood check (LinkedList)
+│ ├── src/
+│ │ ├── Main.java
+│ │ ├── LinkedList.java
+│ │ └── Node.java
+│ ├── list1.txt → list6.txt
+│ └── matrixb.txt
+│
+├── Programming Assignment 1 - Q2 # Bitcoin range using Stack/Queue
+│ ├── src/
+│ │ ├── Main.java
+│ │ ├── Queue.java
+│ │ └── Node.java
+│ ├── price.txt
+│ ├── price2.txt
+│ └── price3.txt
+│
+├── txt-files/ # Shared or duplicate input files
+│ └── (Optional duplicates for clarity)
+│
+└── README.md
+</pre>
+---
+
+
+
 <h2 align="left">Q1:</h2>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9b434c13-fbd9-4cbd-a59c-d719c2bd3dff" alt="path" width=400px/>
 </div>
-
-
 
 <b>Part A.</b>	Return the elements of the given matrix in spiral form. The program should stop when it sees -1. 
 The starting point will be 3 and the direction will be down until the end of the column, then right until the end of the row, up to the top and left.
