@@ -1,4 +1,6 @@
-# Matrix Traversal & Neighborhood Matching (LinkedList)– Bitcoin Range Calculator (Stack/Queue), LinkedList, Queue, Stack (JAVA)
+# JAVA Data Structures and Algorithms - LinkedList, Queue, Stack 
+# Matrix Traversal & Neighborhood Matching (LinkedList)
+# Bitcoin Range Calculator (Stack/Queue)
 
 This repository contains two structured Java programming problems focusing on **LinkedList**, **Queue**, and **Stack** usage.  
 Each task processes input from `.txt` files and emphasizes algorithmic thinking and core data structures.
