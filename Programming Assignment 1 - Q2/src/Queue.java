@@ -1,6 +1,6 @@
 //-----------------------------------------------------
 // Title: Node class
-// Author: Serdar Kemal Topkaya
+// Author: SKT
 // Description: In this class, an integer array whose elements are bitcoin values,
 // which is taken as a parameter, turns this array into a queue with the help of 
 // enqueue, arrayToQueue, valueOfRange, toString, valueToString methods and then 
